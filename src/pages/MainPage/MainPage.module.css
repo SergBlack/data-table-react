@@ -1,0 +1,38 @@
+.mainPageContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #FFF;
+  height: 100%;
+}
+
+.mainPageHeader {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #6495ED;
+  height: 80px;
+}
+
+.mainPageBody {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100%;
+}
+
+.mainPageFooter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6495ED;
+  height: 30px;
+}
+
+table {
+  border-collapse: collapse;
+  border: 3px solid grey;
+}
+
+td, th {
+  border: 1px solid grey;
+}
