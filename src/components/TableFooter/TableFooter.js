@@ -6,7 +6,7 @@ const TableFooter = () => {
     <div>
       <TablePagination />
     </div>
-  )
+  );
 };
 
 export default TableFooter;

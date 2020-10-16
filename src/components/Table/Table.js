@@ -10,7 +10,7 @@ const Table = () => {
       <TableBody />
       <TableFooter />
     </div>
-  )
+  );
 };
 
 export default Table;

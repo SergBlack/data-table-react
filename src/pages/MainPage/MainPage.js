@@ -15,7 +15,7 @@ const MainPage = () => {
         2020 Moscow
       </footer>
     </div>
-  )
+  );
 };
 
 export default MainPage;

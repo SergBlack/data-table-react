@@ -5,7 +5,7 @@ const TableCell = () => {
     <span>
       Cell
     </span>
-  )
+  );
 };
 
 export default TableCell;

@@ -5,7 +5,7 @@ const TablePagination = () => {
     <div>
       Pagination
     </div>
-  )
+  );
 };
 
 export default TablePagination;

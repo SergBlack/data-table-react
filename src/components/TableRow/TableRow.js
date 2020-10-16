@@ -10,7 +10,7 @@ const TableRow = () => {
       <TableCell />
       <TableCell />
     </div>
-  )
+  );
 };
 
 export default TableRow;

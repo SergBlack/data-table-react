@@ -8,7 +8,7 @@ const TableBody = () => {
       <TableRow />
       <TableRow />
     </div>
-  )
+  );
 };
 
 export default TableBody;
