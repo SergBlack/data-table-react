@@ -9,10 +9,10 @@ const MainPage = () => {
         <h1>react-editable-table</h1>
       </header>
       <main className={styles.mainPageBody}>
-        <Table />
+        <Table columns={5} rows={5} width={800}/>
       </main>
       <footer className={styles.mainPageFooter}>
-        2020 Moscow
+        2020, Moscow
       </footer>
     </div>
   );
